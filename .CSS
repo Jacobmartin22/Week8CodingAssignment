@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+    background-color: black;
+    border: 1px solid white;
+    text-decoration-color: white;
+    text-decoration-style: solid;
+}
+
+p {
+    color: red;
+}
+
+body{
+    color: red;
+    background-color: black;
+    border: 1px solid white;
+    text-decoration-color: white;
+    text-decoration-style: solid;   
+}
+a {
+    color: red;
+}
